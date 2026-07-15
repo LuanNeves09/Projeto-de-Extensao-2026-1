@@ -28,18 +28,11 @@ O controle de tarefas e o quadro Kanban podem ser consultados via [Microsoft Pla
 ````
 /
 ├── docs/                  # Documentação oficial do projeto 
-│   ├── TAP.pdf            # Termo de Abertura do Projeto (.pdf e .tex) 
-│   └── Template           # Template LaTeX para Relatórios de Sprint 
 ├── atas/                  # Atas de reunião, incluindo as retrospectivas 
 ├── sprints/               # Evidências do trabalho organizado por sprint 
 │   ├── sprint_0/             
 │   ├── sprint_1/             
 │   └── ...                   
-├── materiais_didaticos/   # Guias e conteúdos produzidos para a comunidade 
-│   ├── aula_1/            
-│   ├── aula_2/            
-│   ├── aula_3/            
-│   ├── aula_4/            
-│   └── aula_5/      
+├── artefatos/             # Guias e conteúdos produzidos 
 └── README.md              # Visão geral e documentação principal 
 ````

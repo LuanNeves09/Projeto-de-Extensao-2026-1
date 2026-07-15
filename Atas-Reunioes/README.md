@@ -1,0 +1,1 @@
+Não foram feitas as atas das reuniões.
